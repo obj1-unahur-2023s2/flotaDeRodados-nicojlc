@@ -1,7 +1,0 @@
-import wollok.game.*
-
-program corsasEnElGame {
-	// hacer las inicializaciones necesarias 
-	
-	game.start()
-}
